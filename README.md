@@ -39,5 +39,5 @@
 ![](https://img.shields.io/badge/-Slack-579CEC?style=for-the-badge&logo=slack&logoColor=ecf0f1)
 
 ### Links
-[![telegram](https://img.shields.io/badge/-telegram-2367B5?style=for-the-badge&logo=telegram&logoColor=ecf0f1)](https://t.me/Koichi_hub)
-[![gmail](https://img.shields.io/badge/-gmail-2367B5?style=for-the-badge&logo=gmail&logoColor=ecf0f1)](memusins@gmail.com)
+[![telegram](https://img.shields.io/badge/-telegram-2367B5?style=for-the-badge&logo=telegram&logoColor=ecf0f1)](https://t.me/darkwhispersins)
+[![gmail](https://img.shields.io/badge/-gmail-2367B5?style=for-the-badge&logo=gmail&logoColor=ecf0f1)](mailto:memusins@gmail.com)
